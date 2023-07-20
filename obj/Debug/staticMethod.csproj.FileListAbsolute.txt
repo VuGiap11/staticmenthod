@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\staticMethod\bin\Debug\staticMethod.exe.config
+C:\Users\tuan\Desktop\staticMethod\bin\Debug\staticMethod.exe
+C:\Users\tuan\Desktop\staticMethod\bin\Debug\staticMethod.pdb
+C:\Users\tuan\Desktop\staticMethod\obj\Debug\staticMethod.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\staticMethod\obj\Debug\staticMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\staticMethod\obj\Debug\staticMethod.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\staticMethod\obj\Debug\staticMethod.exe
+C:\Users\tuan\Desktop\staticMethod\obj\Debug\staticMethod.pdb
